@@ -17,7 +17,7 @@
 var i = setInterval(() => {
     bid(2);
     sendtx()
-}, 500);
+}, 250);
 ```
 
 （可能彈 error ，關閉即可）
