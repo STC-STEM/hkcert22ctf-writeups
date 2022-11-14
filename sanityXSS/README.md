@@ -2,6 +2,11 @@
 
 詳細視頻解釋： https://youtu.be/Cu55E8-AlfI
 
+修改 payload 内的 pipedream 網址
+
+![Payload Modification](./4.png)
+<!--忘記加回來，就這樣吧-->
+
 將 payload 填入 Song Album
 
 ![Song Album](./1.png)
