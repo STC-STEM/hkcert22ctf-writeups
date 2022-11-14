@@ -1,6 +1,6 @@
 # Auction with Blockchain
 
-詳細視頻解釋： 
+詳細視頻解釋： https://youtu.be/gudc2FbEtZU
 
 ## 1.
 `Reset` 多次，以獲得足夠的貨幣<br>

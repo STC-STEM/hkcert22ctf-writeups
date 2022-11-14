@@ -1,6 +1,6 @@
 # protoTYPE:v2 - sanityXSS
 
-詳細視頻解釋： 
+詳細視頻解釋： https://youtu.be/Cu55E8-AlfI
 
 將 payload 填入 Song Album
 

@@ -1,6 +1,6 @@
 # Shellcode Runner 2
 
-詳細視頻解釋： 
+詳細視頻解釋： https://youtu.be/Rd-fyE9y6Lw
 
 根據 http://ref.x86asm.net/coder32.html#x00 <br>
 我們可以得知 `add` 的 8bits 方法對應的匯編碼為 0x00
